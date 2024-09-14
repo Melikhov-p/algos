@@ -1,6 +1,4 @@
-from Stack import Stack
-from Queue import Queue
-from LinkedList import LinkedList
+from DataStructures import LinkedList
 
 
 def main():
